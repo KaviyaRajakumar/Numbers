@@ -6,6 +6,7 @@ public class Desktop implements HardWare,Software {
 	public void softwareResources() {
 	System.out.println("Intel");	
 	123;
+
 	}
 
 	@Override
